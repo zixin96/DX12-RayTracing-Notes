@@ -1,4 +1,4 @@
-# DX12 RayTracing Notes
+# DX12 RayTracing Study Notes
 
 1. Create raytracing interfaces
 
